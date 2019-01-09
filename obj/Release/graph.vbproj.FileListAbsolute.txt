@@ -1,0 +1,45 @@
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\bin\Release\graph.exe
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\bin\Release\graph.pdb
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\bin\Release\graph.xml
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\bin\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\bin\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\Interop.WMPLib.dll
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\AxInterop.WMPLib.dll
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\graph.vbproj.ResolveComReference.cache
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\graph.Form1.resources
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\graph.Resources.resources
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\graph.vbproj.GenerateResource.Cache
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\graph.exe
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\graph.xml
+C:\Documents and Settings\Kubat\My Documents\Visual Studio 2008\Projects\graph\graph\obj\Release\graph.pdb
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\Interop.WMPLib.dll
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\AxInterop.WMPLib.dll
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\graph.vbproj.ResolveComReference.cache
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\graph.exe
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\graph.xml
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\graph.pdb
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\bin\Release\graph.exe
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\bin\Release\graph.pdb
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\bin\Release\graph.xml
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\bin\Release\Interop.WMPLib.dll
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\bin\Release\AxInterop.WMPLib.dll
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\ResolveAssemblyReference.cache
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\graph.Form1.resources
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\graph.Resources.resources
+C:\Users\arinda\Downloads\graph_kubaat.wordpress.com\graph\graph\obj\Release\graph.vbproj.GenerateResource.Cache
+D:\IF\Semester 5\IB\Djijaktstra\graph\bin\Release\graph.exe
+D:\IF\Semester 5\IB\Djijaktstra\graph\bin\Release\graph.pdb
+D:\IF\Semester 5\IB\Djijaktstra\graph\bin\Release\graph.xml
+D:\IF\Semester 5\IB\Djijaktstra\graph\bin\Release\Interop.WMPLib.dll
+D:\IF\Semester 5\IB\Djijaktstra\graph\bin\Release\AxInterop.WMPLib.dll
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\ResolveAssemblyReference.cache
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\Interop.WMPLib.dll
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\AxInterop.WMPLib.dll
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\graph.vbproj.ResolveComReference.cache
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\graph.Form1.resources
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\graph.Resources.resources
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\graph.vbproj.GenerateResource.Cache
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\graph.exe
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\graph.xml
+D:\IF\Semester 5\IB\Djijaktstra\graph\obj\Release\graph.pdb
